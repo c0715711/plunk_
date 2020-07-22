@@ -1,0 +1,36 @@
+{
+  "userRatings": [
+    {
+      "BeerId": 2,
+      "UserName": "test@test.com",
+      "Rating": 4,
+      "Comments": null
+    },
+    {
+      "BeerId": 2,
+      "UserName": "sandy@rdy.com",
+      "Rating": 5,
+      "Comments": "ttest"
+    },
+    {
+      "BeerId": 12,
+      "UserName": "hss@dtest.com",
+      "Rating": 4,
+      "Comments": "Test"
+    }
+  ],
+  "searchbeers": 
+  [
+    {
+      "Id": 2,
+      "name": "Trashy Blonde",
+      "description": "A titillating, neurotic, peroxide punk of a Pale Ale. Combining attitude, style, substance, and a little bit of low self esteem for good measure; what would your mother say? The seductive lure of the sassy passion fruit hop proves too much to resist. All that is even before we get onto the fact that there are no additives, preservatives, pasteurization or strings attached. All wrapped up with the customary BrewDog bite and imaginative twist.",
+      "beerRatings": null
+    },
+    {
+      "Id": 12,
+      "name": "Arcade Nation",
+      "description": "Running the knife-edge between an India Pale Ale and a Stout, this particular style is one we truly love. Black IPAs are a great showcase for the skill of our brew team, balancing so many complex and twisting flavours in the same moment. The citrus, mango and pine from the hops – three of our all-time favourites – play off against the roasty dryness from the malt bill at each and every turn.",
+      "beerRatings": null
+    }
+  ]}
